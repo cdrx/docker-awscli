@@ -1,2 +1,2 @@
-FROM python:2-slim
+FROM python:2-alpine
 RUN pip install awscli
